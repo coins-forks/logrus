@@ -1,1 +1,1 @@
-module github.com/onrik/logrus
+module github.com/coins-forks/logrus
